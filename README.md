@@ -13,7 +13,6 @@ Welcome to **CryptoFlow**, a fully functional open-source cryptocurrency trading
 <img src="./screenshot/4.png" width=30%>
 <img src="./screenshot/5.png" width=30%>
 <img src="./screenshot/6.png" width=30%>
-<img src="./screenshot/7.png" width=30%>
 </div>
 
 
