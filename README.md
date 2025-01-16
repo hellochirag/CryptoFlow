@@ -4,6 +4,20 @@ Welcome to **CryptoFlow**, a fully functional open-source cryptocurrency trading
 
 ---
 
+## Screenshots
+
+<div style="display: flex; flex-direction: 'row';">
+<img src="./screenshot/1.png" width=30%>
+<img src="./screenshot/2.png" width=30%>
+<img src="./screenshot/3.png" width=30%>
+<img src="./screenshot/4.png" width=30%>
+<img src="./screenshot/5.png" width=30%>
+<img src="./screenshot/6.png" width=30%>
+<img src="./screenshot/7.png" width=30%>
+</div>
+
+
+
 ## ✨ Features
 
 - **Live Market Updates**: View real-time cryptocurrency prices and charts.
